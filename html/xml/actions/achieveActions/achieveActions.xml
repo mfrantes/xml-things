@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<achieveActions xmlns:xlink="http://www.w3.org/1999/xlink">
+	<loseActions
+		xlink:href="loseActions/loseActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</loseActions>
+	<tieActions
+		xlink:href="tieActions/tieActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</tieActions>
+	<winActions
+		xlink:href="winActions/winActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</winActions>
+	<achieveAction></achieveAction>
+</achieveActions>

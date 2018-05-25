@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reactActions xmlns:xlink="http://www.w3.org/1999/xlink">
+	<agreeActions
+		xlink:href="agreeActions/agreeActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</agreeActions>
+	<disagreeActions
+		xlink:href="disagreeActions/disagreeActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</disagreeActions>
+	<dislikeActions>
+		<dislikeAction></dislikeAction>
+	</dislikeActions>
+	<endorseActions>
+		<endorseAction></endorseAction>
+	</endorseActions>
+	<likeActions>
+		<likeAction></likeAction>
+	</likeActions>
+	<wantActions>
+		<wantAction></wantAction>
+	</wantActions>
+	<reactAction></reactAction>
+</reactActions>

@@ -1,0 +1,10 @@
+body {
+  font-family: Arial;
+  font-size: 12pt;
+  background-color: #EEEEEE
+}
+
+.padding-4 {padding: 4px}
+.margin-bsmall {margin-bottom: 1em}
+.margin-lbig {margin-left: 20px}
+.font-small {font-size: 10pt}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessActions xmlns:xlink="http://www.w3.org/1999/xlink">
+	<chooseActions
+		xlink:href="chooseActions/chooseActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</chooseActions>
+	<ignoreActions
+		xlink:href="ignoreActions/ignoreActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</ignoreActions>
+	<reactActions
+		xlink:href="reactActions/reactActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</reactActions>
+	<reviewActions>
+		<reviewAction></reviewAction>
+	</reviewActions>
+	<assessAction></assessAction>
+</assessActions>
