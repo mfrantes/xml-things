@@ -12,17 +12,29 @@
 		xlink:show="embed"
 		xlink:actuate="onLoad">
 	</disagreeActions>
-	<dislikeActions>
-		<dislikeAction></dislikeAction>
+	<dislikeActions
+		xlink:href="dislikeActions/dislikeActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
 	</dislikeActions>
-	<endorseActions>
-		<endorseAction></endorseAction>
+	<endorseActions
+		xlink:href="endorseActions/endorseActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
 	</endorseActions>
-	<likeActions>
-		<likeAction></likeAction>
+	<likeActions
+		xlink:href="likeActions/likeActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
 	</likeActions>
-	<wantActions>
-		<wantAction></wantAction>
+	<wantActions
+		xlink:href="wantActions/wantActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
 	</wantActions>
 	<reactAction></reactAction>
 </reactActions>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<moveActions xmlns:xlink="http://www.w3.org/1999/xlink">
+	<arriveActions
+		xlink:href="arriveActions/arriveActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</arriveActions>
+	<departActions
+		xlink:href="departActions/departActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</departActions>
+	<travelActions
+		xlink:href="travelActions/travelActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</travelActions>
+	<moveAction></moveAction>
+</moveActions>

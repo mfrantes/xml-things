@@ -18,8 +18,11 @@
 		xlink:show="embed"
 		xlink:actuate="onLoad">
 	</reactActions>
-	<reviewActions>
-		<reviewAction></reviewAction>
+	<reviewActions
+		xlink:href="reviewActions/reviewActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
 	</reviewActions>
 	<assessAction></assessAction>
 </assessActions>

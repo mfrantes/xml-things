@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playActions xmlns:xlink="http://www.w3.org/1999/xlink">
+	<exerciseActions
+		xlink:href="exerciseActions/exerciseActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</exerciseActions>
+	<performActions
+		xlink:href="performActions/performActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</performActions>
+	<playAction></playAction>
+</playActions>

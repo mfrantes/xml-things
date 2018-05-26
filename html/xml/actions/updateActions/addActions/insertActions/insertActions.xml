@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<insertActions xmlns:xlink="http://www.w3.org/1999/xlink">
+	<appendActions
+		xlink:href="appendActions/appendActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</appendActions>
+	<prependActions
+		xlink:href="prependActions/prependActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</prependActions>
+	<insertAction></insertAction>
+</insertActions>

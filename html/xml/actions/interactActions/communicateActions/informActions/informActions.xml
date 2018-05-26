@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<informActions xmlns:xlink="http://www.w3.org/1999/xlink">
+	<confirmActions
+		xlink:href="confirmActions/confirmActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</confirmActions>
+	<rsvpActions
+		xlink:href="rsvpActions/rsvpActions.xml"
+		xlink:type="simple"
+		xlink:show="embed"
+		xlink:actuate="onLoad">
+	</rsvpActions>
+	<informAction></informAction>
+</informActions>
