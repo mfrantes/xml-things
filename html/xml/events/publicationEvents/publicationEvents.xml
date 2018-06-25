@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publicationEvents xmlns:xlink="http://www.w3.org/1999/xlink">
+	<broadcastEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="broadcastEvents/broadcastEvents.xml"></broadcastEvents>
+	<onDemandEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="onDemandEvents/onDemandEvents.xml"></onDemandEvents>
+	<publicationEvent></publicationEvent>
+</publicationEvents>

@@ -4,72 +4,8 @@
 		xlink:href="actions/actions.xml"></actions>
 	<creativeWorks xlink:actuate="onLoad" xlink:show="embed"
 		xlink:href="creativeWorks/creativeWorks.xml"></creativeWorks>
-	<events>
-		<businessEvents>
-			<businessEvent></businessEvent>
-		</businessEvents>
-		<childrensEvents>
-			<childrensEvent></childrensEvent>
-		</childrensEvents>
-		<comedyEvents>
-			<comedyEvent></comedyEvent>
-		</comedyEvents>
-		<courseInstances>
-			<courseInstance></courseInstance>
-		</courseInstances>
-		<danceEvents>
-			<danceEvent></danceEvent>
-		</danceEvents>
-		<deliveryEvents>
-			<deliveryEvent></deliveryEvent>
-		</deliveryEvents>
-		<educationEvents>
-			<educationEvent></educationEvent>
-		</educationEvents>
-		<exhibitionEvents>
-			<exhibitionEvent></exhibitionEvent>
-		</exhibitionEvents>
-		<festivals>
-			<festival></festival>
-		</festivals>
-		<foodEvents>
-			<foodEvent></foodEvent>
-		</foodEvents>
-		<literaryEvents>
-			<literaryEvent></literaryEvent>
-		</literaryEvents>
-		<musicEvents>
-			<musicEvent></musicEvent>
-		</musicEvents>
-		<publicationEvents>
-			<broadcastEvents>
-				<broadcastEvent></broadcastEvent>
-			</broadcastEvents>
-			<onDemandEvents>
-				<onDemandEvent></onDemandEvent>
-			</onDemandEvents>
-			<publicationEvent></publicationEvent>
-		</publicationEvents>
-		<saleEvents>
-			<saleEvent></saleEvent>
-		</saleEvents>
-		<screeningEvents>
-			<screeningEvent></screeningEvent>
-		</screeningEvents>
-		<socialEvents>
-			<socialEvent></socialEvent>
-		</socialEvents>
-		<sportsEvents>
-			<sportsEvent></sportsEvent>
-		</sportsEvents>
-		<theaterEvents>
-			<theaterEvent></theaterEvent>
-		</theaterEvents>
-		<visualArtsEvents>
-			<visualArtsEvent></visualArtsEvent>
-		</visualArtsEvents>
-		<event></event>
-	</events>
+	<events xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="events/events.xml"></events>
 	<intangibles>
 		<alignmentObjects>
 			<alignmentObject></alignmentObject>

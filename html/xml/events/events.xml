@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xmlns:xlink="http://www.w3.org/1999/xlink">
+	<businessEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="businessEvents/businessEvents.xml"></businessEvents>
+	<childrensEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="childrensEvents/childrensEvents.xml"></childrensEvents>
+	<comedyEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="comedyEvents/comedyEvents.xml"></comedyEvents>
+	<courseInstances xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="courseInstances/courseInstances.xml"></courseInstances>
+	<danceEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="danceEvents/danceEvents.xml"></danceEvents>
+	<deliveryEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="deliveryEvents/deliveryEvents.xml"></deliveryEvents>
+	<educationEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="educationEvents/educationEvents.xml"></educationEvents>
+	<exhibitionEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="exhibitionEvents/exhibitionEvents.xml"></exhibitionEvents>
+	<festivals xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="festivals/festivals.xml"></festivals>
+	<foodEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="foodEvents/foodEvents.xml"></foodEvents>
+	<literaryEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="literaryEvents/literaryEvents.xml"></literaryEvents>
+	<musicEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="musicEvents/musicEvents.xml"></musicEvents>
+	<publicationEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="publicationEvents/publicationEvents.xml"></publicationEvents>
+	<saleEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="saleEvents/saleEvents.xml"></saleEvents>
+	<screeningEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="screeningEvents/screeningEvents.xml"></screeningEvents>
+	<socialEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="socialEvents/socialEvents.xml"></socialEvents>
+	<sportsEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="sportsEvents/sportsEvents.xml"></sportsEvents>
+	<theaterEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="theaterEvents/theaterEvents.xml"></theaterEvents>
+	<visualArtsEvents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="visualArtsEvents/visualArtsEvents.xml"></visualArtsEvents>
+	<event></event>
+</events>
