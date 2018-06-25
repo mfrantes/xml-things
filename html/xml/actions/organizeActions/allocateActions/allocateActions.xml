@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <allocateActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<acceptActions
-		xlink:href="acceptActions/acceptActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</acceptActions>
-	<assignActions
-		xlink:href="assignActions/assignActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</assignActions>
-	<authorizeActions
-		xlink:href="authorizeActions/authorizeActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</authorizeActions>
-	<rejectActions
-		xlink:href="rejectActions/rejectActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</rejectActions>
+	<acceptActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="acceptActions/acceptActions.xml"></acceptActions>
+	<assignActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="assignActions/assignActions.xml"></assignActions>
+	<authorizeActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="authorizeActions/authorizeActions.xml"></authorizeActions>
+	<rejectActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="rejectActions/rejectActions.xml"></rejectActions>
 	<allocateAction></allocateAction>
 </allocateActions>

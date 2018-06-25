@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<allCreativeWorkSeries xmlns:xlink="http://www.w3.org/1999/xlink">
+	<allBookSeries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="allBookSeries/allBookSeries.xml"></allBookSeries>
+	<allMovieSeries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="allMovieSeries/allMovieSeries.xml"></allMovieSeries>
+	<periodicals xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="periodicals/periodicals.xml"></periodicals>
+	<allRadioSeries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="allRadioSeries/allRadioSeries.xml"></allRadioSeries>
+	<allTvSeries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../allTvSeries/allTvSeries.xml"></allTvSeries>
+	<allVideoGameSeries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="allVideoGameSeries/allVideoGameSeries.xml"></allVideoGameSeries>
+	<creativeWorkSeries></creativeWorkSeries>
+</allCreativeWorkSeries>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blogPostings xmlns:xlink="http://www.w3.org/1999/xlink">
+	<liveBlogPostings xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="liveBlogPostings/liveBlogPostings.xml"></liveBlogPostings>
+	<blogPosting></blogPosting>
+</blogPostings>

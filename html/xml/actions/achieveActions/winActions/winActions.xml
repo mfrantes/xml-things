@@ -1,4 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <winActions>
-	<winAction></winAction>
+	<winAction>
+		<math>
+			<mrow>
+				<mfenced>
+					<mtable>
+						<mtr>
+							<mtd>
+								<mi> a </mi>
+							</mtd>
+							<mtd>
+								<mi> b </mi>
+							</mtd>
+						</mtr>
+						<mtr>
+							<mtd>
+								<mi> c </mi>
+							</mtd>
+							<mtd>
+								<mi> d </mi>
+							</mtd>
+						</mtr>
+					</mtable>
+				</mfenced>
+				<mo> ⁢<!--INVISIBLE TIMES--> </mo>
+				<mfenced>
+					<mtable>
+						<mtr>
+							<mtd>
+								<mi> x </mi>
+							</mtd>
+						</mtr>
+						<mtr>
+							<mtd>
+								<mi> y </mi>
+							</mtd>
+						</mtr>
+					</mtable>
+				</mfenced>
+			</mrow>
+			<mo> = </mo>
+			<mfenced>
+				<mtable>
+					<mtr>
+						<mtd>
+							<mi> e </mi>
+						</mtd>
+					</mtr>
+					<mtr>
+						<mtd>
+							<mi> f </mi>
+						</mtd>
+					</mtr>
+				</mtable>
+			</mfenced>
+		</math>
+	</winAction>
 </winActions>

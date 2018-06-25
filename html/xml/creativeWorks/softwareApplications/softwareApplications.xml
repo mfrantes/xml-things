@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<softwareApplications xmlns:xlink="http://www.w3.org/1999/xlink">
+	<mobileApplications xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="mobileApplications/mobileApplications.xml"></mobileApplications>
+	<videoGames xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="videoGames/videoGames.xml"></videoGames>
+	<webApplications xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="webApplications/webApplications.xml"></webApplications>
+	<softwareApplication></softwareApplication>
+</softwareApplications>

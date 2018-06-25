@@ -1,40 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <createActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<cookActions
-		xlink:href="cookActions/cookActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</cookActions>
-	<drawActions
-		xlink:href="drawActions/drawActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</drawActions>
-	<filmActions
-		xlink:href="filmActions/filmActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</filmActions>
-	<paintActions
-		xlink:href="paintActions/paintActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</paintActions>
-	<photographActions
-		xlink:href="photographActions/photographActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</photographActions>
-	<writeActions
-		xlink:href="writeActions/writeActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</writeActions>
+	<cookActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="cookActions/cookActions.xml"></cookActions>
+	<drawActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="drawActions/drawActions.xml"></drawActions>
+	<filmActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="filmActions/filmActions.xml"></filmActions>
+	<paintActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="paintActions/paintActions.xml"></paintActions>
+	<photographActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="photographActions/photographActions.xml"></photographActions>
+	<writeActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="writeActions/writeActions.xml"></writeActions>
 	<createAction></createAction>
 </createActions>

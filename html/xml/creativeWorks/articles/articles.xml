@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles xmlns:xlink="http://www.w3.org/1999/xlink">
+	<newsArticles xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="newsArticles/newsArticles.xml"></newsArticles>
+	<reports xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="reports/reports.xml"></reports>
+	<scholarlyArticles xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="scholarlyArticles/scholarlyArticles.xml"></scholarlyArticles>
+	<socialMediaPostings xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="socialMediaPostings/socialMediaPostings.xml"></socialMediaPostings>
+	<techArticles xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="techArticles/techArticles.xml"></techArticles>
+	<article></article>
+</articles>

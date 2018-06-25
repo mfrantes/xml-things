@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<howTos xmlns:xlink="http://www.w3.org/1999/xlink">
+	<recipes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="recipes/recipes.xml"></recipes>
+	<howTo></howTo>
+</howTos>

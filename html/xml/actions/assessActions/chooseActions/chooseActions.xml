@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chooseActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<voteActions
-		xlink:href="voteActions/voteActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</voteActions>
+	<voteActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="voteActions/voteActions.xml"></voteActions>
 	<chooseAction></chooseAction>
 </chooseActions>

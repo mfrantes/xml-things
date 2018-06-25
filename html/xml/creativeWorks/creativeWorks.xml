@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creativeWorks xmlns:xlink="http://www.w3.org/1999/xlink">
+	<articles xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="articles/articles.xml"></articles>
+	<blogs xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="blogs/blogs.xml"></blogs>
+	<books xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="books/books.xml"></books>
+	<clips xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="clips/clips.xml"></clips>
+	<comments xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="comments/comments.xml"></comments>
+	<conversations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="conversations/conversations.xml"></conversations>
+	<courses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="courses/courses.xml"></courses>
+	<creativeWorkSeasons xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="creativeWorkSeasons/creativeWorkSeasons.xml"></creativeWorkSeasons>
+	<allCreativeWorkSeries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="allCreativeWorkSeries/allCreativeWorkSeries.xml"></allCreativeWorkSeries>
+	<dataCatalogs xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="dataCatalogs/dataCatalogs.xml"></dataCatalogs>
+	<datasets xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="datasets/datasets.xml"></datasets>
+	<digitalDocuments xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="digitalDocuments/digitalDocuments.xml"></digitalDocuments>
+	<episodes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="episodes/episodes.xml"></episodes>
+	<games xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="games/games.xml"></games>
+	<howTos xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="howTos/howTos.xml"></howTos>
+	<maps xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="maps/maps.xml"></maps>
+	<mediaObjects xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="mediaObjects/mediaObjects.xml"></mediaObjects>
+	<menus xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="menus/menus.xml"></menus>
+	<menuSections xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="menuSections/menuSections.xml"></menuSections>
+	<messages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="messages/messages.xml"></messages>
+	<movies xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="movies/movies.xml"></movies>
+	<musicCompositions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="musicCompositions/musicCompositions.xml"></musicCompositions>
+	<musicPlaylists xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="musicPlaylists/musicPlaylists.xml"></musicPlaylists>
+	<musicRecordings xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="musicRecordings/musicRecordings.xml"></musicRecordings>
+	<paintings xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="paintings/paintings.xml"></paintings>
+	<photographs xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="photographs/photographs.xml"></photographs>
+	<publicationIssues xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="publicationIssues/publicationIssues.xml"></publicationIssues>
+	<publicationVolumes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="publicationVolumes/publicationVolumes.xml"></publicationVolumes>
+	<questions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="questions/questions.xml"></questions>
+	<reviews xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="reviews/reviews.xml"></reviews>
+	<sculptures xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="sculptures/sculptures.xml"></sculptures>
+	<allSeries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="allSeries/allSeries.xml"></allSeries>
+	<softwareApplications xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="softwareApplications/softwareApplications.xml"></softwareApplications>
+	<softwareSourceCodes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="softwareSourceCodes/softwareSourceCodes.xml"></softwareSourceCodes>
+	<tvSeasons xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="tvSeasons/tvSeasons.xml"></tvSeasons>
+	<allTvSeries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="allTvSeries/allTvSeries.xml"></allTvSeries>
+	<visualArtworks xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="visualArtworks/visualArtworks.xml"></visualArtworks>
+	<webPages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="webPages/webPages.xml"></webPages>
+	<webPageElements xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="webPageElements/webPageElements.xml"></webPageElements>
+	<webSites xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="webSites/webSites.xml"></webSites>
+	<creativeWork></creativeWork>
+</creativeWorks>

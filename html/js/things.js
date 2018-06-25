@@ -23,12 +23,20 @@ function loadFile(url, timeout, callback) {
 	xhr.send(null);
 }
 
+function loadMathJax() {
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src = "js/MathJax-2.7.4/MathJax.js?config=MML_CHTML";
+	document.getElementsByTagName("head")[0].appendChild(script);
+}
+
 function importXsltStylesheet() {
 	xp.importStylesheet(this.responseXML);
 }
 
 function appendFragment() {
 	document.getElementById("things").appendChild(xp.transformToFragment(this.responseXML, document));
+	loadMathJax();
 }
 
 function displayResult(){

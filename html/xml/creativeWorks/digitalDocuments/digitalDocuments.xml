@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<digitalDocuments xmlns:xlink="http://www.w3.org/1999/xlink">
+	<noteDigitalDocuments xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="noteDigitalDocuments/noteDigitalDocuments.xml"></noteDigitalDocuments>
+	<presentationDigitalDocuments xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="presentationDigitalDocuments/presentationDigitalDocuments.xml"></presentationDigitalDocuments>
+	<spreadsheetDigitalDocuments xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="spreadsheetDigitalDocuments/spreadsheetDigitalDocuments.xml"></spreadsheetDigitalDocuments>
+	<textDigitalDocuments xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="textDigitalDocuments/textDigitalDocuments.xml"></textDigitalDocuments>
+	<digitalDocument></digitalDocument>
+</digitalDocuments>

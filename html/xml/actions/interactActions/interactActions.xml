@@ -1,58 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <interactActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<befriendActions
-		xlink:href="befriendActions/befriendActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</befriendActions>
-	<communicateActions
-		xlink:href="communicateActions/communicateActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</communicateActions>
-	<followActions
-		xlink:href="followActions/followActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</followActions>
-	<joinActions
-		xlink:href="joinActions/joinActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</joinActions>
-	<leaveActions
-		xlink:href="leaveActions/leaveActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</leaveActions>
-	<marryActions
-		xlink:href="marryActions/marryActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</marryActions>
-	<registerActions
-		xlink:href="registerActions/registerActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</registerActions>
-	<subscribeActions
-		xlink:href="subscribeActions/subscribeActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</subscribeActions>
-	<unRegisterActions
-		xlink:href="unRegisterActions/unRegisterActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</unRegisterActions>
+	<befriendActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="befriendActions/befriendActions.xml"></befriendActions>
+	<communicateActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="communicateActions/communicateActions.xml"></communicateActions>
+	<followActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="followActions/followActions.xml"></followActions>
+	<joinActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="joinActions/joinActions.xml"></joinActions>
+	<leaveActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="leaveActions/leaveActions.xml"></leaveActions>
+	<marryActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="marryActions/marryActions.xml"></marryActions>
+	<registerActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="registerActions/registerActions.xml"></registerActions>
+	<subscribeActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="subscribeActions/subscribeActions.xml"></subscribeActions>
+	<unRegisterActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="unRegisterActions/unRegisterActions.xml"></unRegisterActions>
 	<interactAction></interactAction>
 </interactActions>

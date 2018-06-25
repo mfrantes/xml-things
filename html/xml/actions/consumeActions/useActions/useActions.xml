@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <useActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<wearActions
-		xlink:href="wearActions/wearActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</wearActions>
+	<wearActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="wearActions/wearActions.xml"></wearActions>
 	<useAction></useAction>
 </useActions>

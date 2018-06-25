@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updateActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<addActions
-		xlink:href="addActions/addActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</addActions>
-	<deleteActions
-		xlink:href="deleteActions/deleteActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</deleteActions>
-	<replaceActions
-		xlink:href="replaceActions/replaceActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</replaceActions>
+	<addActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="addActions/addActions.xml"></addActions>
+	<deleteActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="deleteActions/deleteActions.xml"></deleteActions>
+	<replaceActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="replaceActions/replaceActions.xml"></replaceActions>
 	<updateAction></updateAction>
 </updateActions>

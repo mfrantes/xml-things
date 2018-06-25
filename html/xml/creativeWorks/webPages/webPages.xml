@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webPages xmlns:xlink="http://www.w3.org/1999/xlink">
+	<aboutPages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="aboutPages/aboutPages.xml"></aboutPages>
+	<checkoutPages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="checkoutPages/checkoutPages.xml"></checkoutPages>
+	<collectionPages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="collectionPages/collectionPages.xml"></collectionPages>
+	<contactPages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="contactPages/contactPages.xml"></contactPages>
+	<itemPages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="itemPages/itemPages.xml"></itemPages>
+	<profilePages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="profilePages/profilePages.xml"></profilePages>
+	<qaPages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="qaPages/qaPages.xml"></qaPages>
+	<searchResultsPages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="searchResultsPages/searchResultsPages.xml"></searchResultsPages>
+	<webPage></webPage>
+</webPages>

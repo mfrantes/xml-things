@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<episodes xmlns:xlink="http://www.w3.org/1999/xlink">
+	<radioEpisodes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="radioEpisodes/radioEpisodes.xml"></radioEpisodes>
+	<tvEpisodes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="tvEpisodes/tvEpisodes.xml"></tvEpisodes>
+	<episode></episode>
+</episodes>

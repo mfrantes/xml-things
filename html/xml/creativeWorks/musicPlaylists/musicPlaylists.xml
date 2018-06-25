@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musicPlaylists xmlns:xlink="http://www.w3.org/1999/xlink">
+	<musicAlbums xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="musicAlbums/musicAlbums.xml"></musicAlbums>
+	<musicReleases xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="musicReleases/musicReleases.xml"></musicReleases>
+	<musicPlaylist></musicPlaylist>
+</musicPlaylists>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webPageElements xmlns:xlink="http://www.w3.org/1999/xlink">
+	<siteNavigationElements xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="siteNavigationElements/siteNavigationElements.xml"></siteNavigationElements>
+	<tables xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="tables/tables.xml"></tables>
+	<wpAdBlocks xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="wpAdBlocks/wpAdBlocks.xml"></wpAdBlocks>
+	<wpFooters xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="wpFooters/wpFooters.xml"></wpFooters>
+	<wpHeaders xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="wpHeaders/wpHeaders.xml"></wpHeaders>
+	<wpSideBars xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="wpSideBars/wpSideBars.xml"></wpSideBars>
+	<webPageElement></webPageElement>
+</webPageElements>

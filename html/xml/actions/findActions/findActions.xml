@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <findActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<checkActions
-		xlink:href="checkActions/checkActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</checkActions>
-	<discoverActions
-		xlink:href="discoverActions/discoverActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</discoverActions>
-	<trackActions
-		xlink:href="trackActions/trackActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</trackActions>
+	<checkActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="checkActions/checkActions.xml"></checkActions>
+	<discoverActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="discoverActions/discoverActions.xml"></discoverActions>
+	<trackActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="trackActions/trackActions.xml"></trackActions>
 	<findAction></findAction>
 </findActions>

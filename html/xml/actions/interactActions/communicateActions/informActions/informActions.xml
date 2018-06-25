@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <informActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<confirmActions
-		xlink:href="confirmActions/confirmActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</confirmActions>
-	<rsvpActions
-		xlink:href="rsvpActions/rsvpActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</rsvpActions>
+	<confirmActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="confirmActions/confirmActions.xml"></confirmActions>
+	<rsvpActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="rsvpActions/rsvpActions.xml"></rsvpActions>
 	<informAction></informAction>
 </informActions>

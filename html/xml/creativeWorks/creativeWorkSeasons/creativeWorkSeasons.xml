@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creativeWorkSeasons xmlns:xlink="http://www.w3.org/1999/xlink">
+	<radioSeasons xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="radioSeasons/radioSeasons.xml"></radioSeasons>
+	<tvSeasons xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="tvSeasons/tvSeasons.xml"></tvSeasons>
+	<creativeWorkSeason></creativeWorkSeason>
+</creativeWorkSeasons>

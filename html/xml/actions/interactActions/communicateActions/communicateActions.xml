@@ -1,52 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <communicateActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<askActions
-		xlink:href="askActions/askActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</askActions>
-	<checkInActions
-		xlink:href="checkInActions/checkInActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</checkInActions>
-	<checkOutActions
-		xlink:href="checkOutActions/checkOutActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</checkOutActions>
-	<commentActions
-		xlink:href="commentActions/commentActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</commentActions>
-	<informActions
-		xlink:href="informActions/informActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</informActions>
-	<inviteActions
-		xlink:href="inviteActions/inviteActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</inviteActions>
-	<replyActions
-		xlink:href="replyActions/replyActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</replyActions>
-	<shareActions
-		xlink:href="shareActions/shareActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</shareActions>
+	<askActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="askActions/askActions.xml"></askActions>
+	<checkInActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="checkInActions/checkInActions.xml"></checkInActions>
+	<checkOutActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="checkOutActions/checkOutActions.xml"></checkOutActions>
+	<commentActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="commentActions/commentActions.xml"></commentActions>
+	<informActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="informActions/informActions.xml"></informActions>
+	<inviteActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="inviteActions/inviteActions.xml"></inviteActions>
+	<replyActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="replyActions/replyActions.xml"></replyActions>
+	<shareActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="shareActions/shareActions.xml"></shareActions>
 	<communicateAction></communicateAction>
 </communicateActions>

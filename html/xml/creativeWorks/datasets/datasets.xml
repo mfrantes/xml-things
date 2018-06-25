@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datasets xmlns:xlink="http://www.w3.org/1999/xlink">
+	<dataFeeds xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="dataFeeds/dataFeeds.xml"></dataFeeds>
+	<dataset></dataset>
+</datasets>

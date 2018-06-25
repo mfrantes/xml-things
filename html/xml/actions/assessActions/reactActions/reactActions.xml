@@ -1,40 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reactActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<agreeActions
-		xlink:href="agreeActions/agreeActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</agreeActions>
-	<disagreeActions
-		xlink:href="disagreeActions/disagreeActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</disagreeActions>
-	<dislikeActions
-		xlink:href="dislikeActions/dislikeActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</dislikeActions>
-	<endorseActions
-		xlink:href="endorseActions/endorseActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</endorseActions>
-	<likeActions
-		xlink:href="likeActions/likeActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</likeActions>
-	<wantActions
-		xlink:href="wantActions/wantActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</wantActions>
+	<agreeActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="agreeActions/agreeActions.xml"></agreeActions>
+	<disagreeActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="disagreeActions/disagreeActions.xml"></disagreeActions>
+	<dislikeActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="dislikeActions/dislikeActions.xml"></dislikeActions>
+	<endorseActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="endorseActions/endorseActions.xml"></endorseActions>
+	<likeActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="likeActions/likeActions.xml"></likeActions>
+	<wantActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="wantActions/wantActions.xml"></wantActions>
 	<reactAction></reactAction>
 </reactActions>

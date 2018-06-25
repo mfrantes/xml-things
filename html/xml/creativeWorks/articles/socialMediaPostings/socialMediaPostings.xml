@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<socialMediaPostings xmlns:xlink="http://www.w3.org/1999/xlink">
+	<blogPostings xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="blogPostings/blogPostings.xml"></blogPostings>
+	<discussionForumPostings xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="discussionForumPostings/discussionForumPostings.xml"></discussionForumPostings>
+	<socialMediaPosting></socialMediaPosting>
+</socialMediaPostings>

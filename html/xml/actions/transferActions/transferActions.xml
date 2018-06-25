@@ -1,52 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transferActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<borrowActions
-		xlink:href="borrowActions/borrowActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</borrowActions>
-	<downloadActions
-		xlink:href="downloadActions/downloadActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</downloadActions>
-	<giveActions
-		xlink:href="giveActions/giveActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</giveActions>
-	<lendActions
-		xlink:href="lendActions/lendActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</lendActions>
-	<receiveActions
-		xlink:href="receiveActions/receiveActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</receiveActions>
-	<returnActions
-		xlink:href="returnActions/returnActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</returnActions>
-	<sendActions
-		xlink:href="sendActions/sendActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</sendActions>
-	<takeActions
-		xlink:href="takeActions/takeActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</takeActions>
+	<borrowActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="borrowActions/borrowActions.xml"></borrowActions>
+	<downloadActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="downloadActions/downloadActions.xml"></downloadActions>
+	<giveActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="giveActions/giveActions.xml"></giveActions>
+	<lendActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="lendActions/lendActions.xml"></lendActions>
+	<receiveActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="receiveActions/receiveActions.xml"></receiveActions>
+	<returnActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="returnActions/returnActions.xml"></returnActions>
+	<sendActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="sendActions/sendActions.xml"></sendActions>
+	<takeActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="takeActions/takeActions.xml"></takeActions>
 	<transferAction></transferAction>
 </transferActions>

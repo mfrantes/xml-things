@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <organizeActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<allocateActions
-		xlink:href="allocateActions/allocateActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</allocateActions>
-	<applyActions
-		xlink:href="applyActions/applyActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</applyActions>
-	<bookmarkActions
-		xlink:href="bookmarkActions/bookmarkActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</bookmarkActions>
-	<planActions
-		xlink:href="planActions/planActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</planActions>
+	<allocateActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="allocateActions/allocateActions.xml"></allocateActions>
+	<applyActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="applyActions/applyActions.xml"></applyActions>
+	<bookmarkActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="bookmarkActions/bookmarkActions.xml"></bookmarkActions>
+	<planActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="planActions/planActions.xml"></planActions>
 	<organizeAction></organizeAction>
 </organizeActions>

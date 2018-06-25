@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games xmlns:xlink="http://www.w3.org/1999/xlink">
+	<videoGames xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../softwareApplications/videoGames/videoGames.xml"></videoGames>
+	<game></game>
+</games>

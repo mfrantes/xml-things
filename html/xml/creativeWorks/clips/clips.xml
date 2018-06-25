@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clips xmlns:xlink="http://www.w3.org/1999/xlink">
+	<movieClips xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="movieClips/movieClips.xml"></movieClips>
+	<radioClips xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="radioClips/radioClips.xml"></radioClips>
+	<tvClips xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="tvClips/tvClips.xml"></tvClips>
+	<videoGameClips xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="videoGameClips/videoGameClips.xml"></videoGameClips>
+	<clip></clip>
+</clips>

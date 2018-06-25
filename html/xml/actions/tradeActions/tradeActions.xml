@@ -1,52 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tradeActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<buyActions
-		xlink:href="buyActions/buyActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</buyActions>
-	<donateActions
-		xlink:href="donateActions/donateActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</donateActions>
-	<orderActions
-		xlink:href="orderActions/orderActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</orderActions>
-	<payActions
-		xlink:href="payActions/payActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</payActions>
-	<quoteActions
-		xlink:href="quoteActions/quoteActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</quoteActions>
-	<rentActions
-		xlink:href="rentActions/rentActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</rentActions>
-	<sellActions
-		xlink:href="sellActions/sellActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</sellActions>
-	<tipActions
-		xlink:href="tipActions/tipActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</tipActions>
+	<buyActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="buyActions/buyActions.xml"></buyActions>
+	<donateActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="donateActions/donateActions.xml"></donateActions>
+	<orderActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="orderActions/orderActions.xml"></orderActions>
+	<payActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="payActions/payActions.xml"></payActions>
+	<quoteActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="quoteActions/quoteActions.xml"></quoteActions>
+	<rentActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="rentActions/rentActions.xml"></rentActions>
+	<sellActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="sellActions/sellActions.xml"></sellActions>
+	<tipActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="tipActions/tipActions.xml"></tipActions>
 	<tradeAction></tradeAction>
 </tradeActions>

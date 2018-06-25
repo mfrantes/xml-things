@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews xmlns:xlink="http://www.w3.org/1999/xlink">
+	<claimReviews xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="claimReviews/claimReviews.xml"></claimReviews>
+	<review></review>
+</reviews>

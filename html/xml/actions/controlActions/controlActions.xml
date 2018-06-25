@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <controlActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<activateActions
-		xlink:href="activateActions/activateActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</activateActions>
-	<deactivateActions
-		xlink:href="deactivateActions/deactivateActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</deactivateActions>
-	<resumeActions
-		xlink:href="resumeActions/resumeActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</resumeActions>
-	<suspendActions
-		xlink:href="suspendActions/suspendActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</suspendActions>
+	<activateActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="activateActions/activateActions.xml"></activateActions>
+	<deactivateActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="deactivateActions/deactivateActions.xml"></deactivateActions>
+	<resumeActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="resumeActions/resumeActions.xml"></resumeActions>
+	<suspendActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="suspendActions/suspendActions.xml"></suspendActions>
 	<controlAction></controlAction>
 </controlActions>

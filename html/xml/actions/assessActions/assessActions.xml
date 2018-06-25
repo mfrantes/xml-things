@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <assessActions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<chooseActions
-		xlink:href="chooseActions/chooseActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</chooseActions>
-	<ignoreActions
-		xlink:href="ignoreActions/ignoreActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</ignoreActions>
-	<reactActions
-		xlink:href="reactActions/reactActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</reactActions>
-	<reviewActions
-		xlink:href="reviewActions/reviewActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</reviewActions>
+	<chooseActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="chooseActions/chooseActions.xml"></chooseActions>
+	<ignoreActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="ignoreActions/ignoreActions.xml"></ignoreActions>
+	<reactActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="reactActions/reactActions.xml"></reactActions>
+	<reviewActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="reviewActions/reviewActions.xml"></reviewActions>
 	<assessAction></assessAction>
 </assessActions>

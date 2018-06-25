@@ -1,88 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions xmlns:xlink="http://www.w3.org/1999/xlink">
-	<achieveActions
-		xlink:href="achieveActions/achieveActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</achieveActions>
-	<assessActions
-		xlink:href="assessActions/assessActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</assessActions>
-	<consumeActions
-		xlink:href="consumeActions/consumeActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</consumeActions>
-	<controlActions
-		xlink:href="controlActions/controlActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</controlActions>
-	<createActions
-		xlink:href="createActions/createActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</createActions>
-	<findActions
-		xlink:href="findActions/findActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</findActions>
-	<interactActions
-		xlink:href="interactActions/interactActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</interactActions>
-	<moveActions
-		xlink:href="moveActions/moveActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</moveActions>
-	<organizeActions
-		xlink:href="organizeActions/organizeActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</organizeActions>
-	<playActions
-		xlink:href="playActions/playActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</playActions>
-	<searchActions
-		xlink:href="searchActions/searchActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</searchActions>
-	<tradeActions
-		xlink:href="tradeActions/tradeActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</tradeActions>
-	<transferActions
-		xlink:href="transferActions/transferActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</transferActions>
-	<updateActions
-		xlink:href="updateActions/updateActions.xml"
-		xlink:type="simple"
-		xlink:show="embed"
-		xlink:actuate="onLoad">
-	</updateActions>
+	<achieveActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="achieveActions/achieveActions.xml"></achieveActions>
+	<assessActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="assessActions/assessActions.xml"></assessActions>
+	<consumeActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="consumeActions/consumeActions.xml"></consumeActions>
+	<controlActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="controlActions/controlActions.xml"></controlActions>
+	<createActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="createActions/createActions.xml"></createActions>
+	<findActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="findActions/findActions.xml"></findActions>
+	<interactActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="interactActions/interactActions.xml"></interactActions>
+	<moveActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="moveActions/moveActions.xml"></moveActions>
+	<organizeActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="organizeActions/organizeActions.xml"></organizeActions>
+	<playActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="playActions/playActions.xml"></playActions>
+	<searchActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="searchActions/searchActions.xml"></searchActions>
+	<tradeActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="tradeActions/tradeActions.xml"></tradeActions>
+	<transferActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="transferActions/transferActions.xml"></transferActions>
+	<updateActions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="updateActions/updateActions.xml"></updateActions>
 	<action></action>
 </actions>

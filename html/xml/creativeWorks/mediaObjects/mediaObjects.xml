@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mediaObjects xmlns:xlink="http://www.w3.org/1999/xlink">
+	<audioObjects xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="audioObjects/audioObjects.xml"></audioObjects>
+	<dataDownloads xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="dataDownloads/dataDownloads.xml"></dataDownloads>
+	<imageObjects xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="imageObjects/imageObjects.xml"></imageObjects>
+	<musicVideoObjects xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="musicVideoObjects/musicVideoObjects.xml"></musicVideoObjects>
+	<videoObjects xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="videoObjects/videoObjects.xml"></videoObjects>
+	<mediaObject></mediaObject>
+</mediaObjects>
