@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services xmlns:xlink="http://www.w3.org/1999/xlink">
+	<broadcastServices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="broadcastServices/broadcastServices.xml"></broadcastServices>
+	<cableOrSatelliteServices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="cableOrSatelliteServices/cableOrSatelliteServices.xml"></cableOrSatelliteServices>
+	<financialProducts xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="financialProducts/financialProducts.xml"></financialProducts>
+	<foodServices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="foodServices/foodServices.xml"></foodServices>
+	<governmentServices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="governmentServices/governmentServices.xml"></governmentServices>
+	<taxiServices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="taxiServices/taxiServices.xml"></taxiServices>
+	<service></service>
+</services>

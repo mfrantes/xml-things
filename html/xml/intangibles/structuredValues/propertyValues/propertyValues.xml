@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<propertyValues xmlns:xlink="http://www.w3.org/1999/xlink">
+	<locationFeatureSpecifications xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="locationFeatureSpecifications/locationFeatureSpecifications.xml"></locationFeatureSpecifications>
+	<propertyValue></propertyValue>
+</propertyValues>

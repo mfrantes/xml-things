@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<offers xmlns:xlink="http://www.w3.org/1999/xlink">
+	<aggregateOffers xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="aggregateOffers/aggregateOffers.xml"></aggregateOffers>
+	<offer></offer>
+</offers>

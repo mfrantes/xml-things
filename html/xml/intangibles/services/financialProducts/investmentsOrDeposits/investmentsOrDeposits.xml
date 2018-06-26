@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<investmentsOrDeposits xmlns:xlink="http://www.w3.org/1999/xlink">
+	<depositAccounts xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="depositAccounts/depositAccounts.xml"></depositAccounts>
+	<investmentOrDeposit></investmentOrDeposit>
+</investmentsOrDeposits>

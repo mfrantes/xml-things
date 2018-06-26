@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles xmlns:xlink="http://www.w3.org/1999/xlink">
+	<organizationRoles xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="organizationRoles/organizationRoles.xml"></organizationRoles>
+	<performanceRoles xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="performanceRoles/performanceRoles.xml"></performanceRoles>
+	<role></role>
+</roles>

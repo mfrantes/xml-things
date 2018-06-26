@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips xmlns:xlink="http://www.w3.org/1999/xlink">
+	<busTrips xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="busTrips/busTrips.xml"></busTrips>
+	<flights xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="flights/flights.xml"></flights>
+	<trainTrips xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="trainTrips/trainTrips.xml"></trainTrips>
+	<trip></trip>
+</trips>

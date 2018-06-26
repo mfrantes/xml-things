@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audiences xmlns:xlink="http://www.w3.org/1999/xlink">
+	<businessAudiences xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="businessAudiences/businessAudiences.xml"></businessAudiences>
+	<educationalAudiences xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="educationalAudiences/educationalAudiences.xml"></educationalAudiences>
+	<peopleAudiences xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="peopleAudiences/peopleAudiences.xml"></peopleAudiences>
+	<audience></audience>
+</audiences>

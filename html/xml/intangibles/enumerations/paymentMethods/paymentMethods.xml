@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paymentMethods xmlns:xlink="http://www.w3.org/1999/xlink">
+	<paymentCards xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../../services/financialProducts/paymentCards/paymentCards.xml"></paymentCards>
+	<paymentMethod></paymentMethod>
+</paymentMethods>

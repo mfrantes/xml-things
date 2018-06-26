@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<structuredValues xmlns:xlink="http://www.w3.org/1999/xlink">
+	<contactPoints xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="contactPoints/contactPoints.xml"></contactPoints>
+	<engineSpecifications xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="engineSpecifications/engineSpecifications.xml"></engineSpecifications>
+	<allGeoCoordinates xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="allGeoCoordinates/allGeoCoordinates.xml"></allGeoCoordinates>
+	<geoShapes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="geoShapes/geoShapes.xml"></geoShapes>
+	<interactionCounters xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="interactionCounters/interactionCounters.xml"></interactionCounters>
+	<monetaryAmounts xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="monetaryAmounts/monetaryAmounts.xml"></monetaryAmounts>
+	<allNutritionInformation xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="allNutritionInformation/allNutritionInformation.xml"></allNutritionInformation>
+	<openingHoursSpecifications xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="openingHoursSpecifications/openingHoursSpecifications.xml"></openingHoursSpecifications>
+	<allOwnershipInfo xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="allOwnershipInfo/allOwnershipInfo.xml"></allOwnershipInfo>
+	<priceSpecifications xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="priceSpecifications/priceSpecifications.xml"></priceSpecifications>
+	<propertyValues xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="propertyValues/propertyValues.xml"></propertyValues>
+	<quantitativeValues xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="quantitativeValues/quantitativeValues.xml"></quantitativeValues>
+	<typeAndQuantityNodes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="typeAndQuantityNodes/typeAndQuantityNodes.xml"></typeAndQuantityNodes>
+	<warrantyPromises xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="warrantyPromises/warrantyPromises.xml"></warrantyPromises>
+	<structuredValue></structuredValue>
+</structuredValues>

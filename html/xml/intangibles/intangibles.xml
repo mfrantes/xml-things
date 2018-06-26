@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<intangibles xmlns:xlink="http://www.w3.org/1999/xlink">
+	<alignmentObjects xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="alignmentObjects/alignmentObjects.xml"></alignmentObjects>
+	<audiences xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="audiences/audiences.xml"></audiences>
+	<allBedDetails xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="allBedDetails/allBedDetails.xml"></allBedDetails>
+	<brands xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="brands/brands.xml"></brands>
+	<broadcastChannels xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="broadcastChannels/broadcastChannels.xml"></broadcastChannels>
+	<computerLanguages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="computerLanguages/computerLanguages.xml"></computerLanguages>
+	<dataFeedItems xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="dataFeedItems/dataFeedItems.xml"></dataFeedItems>
+	<demands xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="demands/demands.xml"></demands>
+	<digitalDocumentPermissions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="digitalDocumentPermissions/digitalDocumentPermissions.xml"></digitalDocumentPermissions>
+	<entryPoints xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="entryPoints/entryPoints.xml"></entryPoints>
+	<enumerations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="enumerations/enumerations.xml"></enumerations>
+	<gameServers xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="gameServers/gameServers.xml"></gameServers>
+	<invoices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="invoices/invoices.xml"></invoices>
+	<itemLists xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="itemLists/itemLists.xml"></itemLists>
+	<jobPostings xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="jobPostings/jobPostings.xml"></jobPostings>
+	<languages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="languages/languages.xml"></languages>
+	<listItems xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="listItems/listItems.xml"></listItems>
+	<menuItems xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="menuItems/menuItems.xml"></menuItems>
+	<offers xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="offers/offers.xml"></offers>
+	<orders xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="orders/orders.xml"></orders>
+	<orderItems xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="orderItems/orderItems.xml"></orderItems>
+	<parcelDeliveries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="orderItems/orderItems.xml"></parcelDeliveries>
+	<permits xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="permits/permits.xml"></permits>
+	<programMemberships xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="programMemberships/programMemberships.xml"></programMemberships>
+	<propertyValueSpecifications xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="propertyValueSpecifications/propertyValueSpecifications.xml"></propertyValueSpecifications>
+	<quantities xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="quantities/quantities.xml"></quantities>
+	<ratings xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="ratings/ratings.xml"></ratings>
+	<reservations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="reservations/reservations.xml"></reservations>
+	<roles xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="roles/roles.xml"></roles>
+	<seats xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="seats/seats.xml"></seats>
+	<services xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="services/services.xml"></services>
+	<serviceChannels xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="serviceChannels/serviceChannels.xml"></serviceChannels>
+	<structuredValues xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="structuredValues/structuredValues.xml"></structuredValues>
+	<tickets xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="tickets/tickets.xml"></tickets>
+	<trips xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="trips/trips.xml"></trips>
+	<intangible></intangible>
+</intangibles>

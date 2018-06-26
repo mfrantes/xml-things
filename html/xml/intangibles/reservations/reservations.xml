@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reservations xmlns:xlink="http://www.w3.org/1999/xlink">
+	<busReservations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="busReservations/busReservations.xml"></busReservations>
+	<eventReservations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="eventReservations/eventReservations.xml"></eventReservations>
+	<flightReservations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="flightReservations/flightReservations.xml"></flightReservations>
+	<foodEstablishmentReservations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="foodEstablishmentReservations/foodEstablishmentReservations.xml"></foodEstablishmentReservations>
+	<lodgingReservations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="lodgingReservations/lodgingReservations.xml"></lodgingReservations>
+	<rentalCarReservations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="rentalCarReservations/rentalCarReservations.xml"></rentalCarReservations>
+	<reservationPackages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="reservationPackages/reservationPackages.xml"></reservationPackages>
+	<taxiReservations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="taxiReservations/taxiReservations.xml"></taxiReservations>
+	<trainReservations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="trainReservations/trainReservations.xml"></trainReservations>
+	<reservation></reservation>
+</reservations>

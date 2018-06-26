@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ratings xmlns:xlink="http://www.w3.org/1999/xlink">
+	<aggregateRatings xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="aggregateRatings/aggregateRatings.xml"></aggregateRatings>
+	<rating></rating>
+</ratings>

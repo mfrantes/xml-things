@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quantities xmlns:xlink="http://www.w3.org/1999/xlink">
+	<distances xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="distances/distances.xml"></distances>
+	<durations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="durations/durations.xml"></durations>
+	<energies xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="energies/energies.xml"></energies>
+	<masses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="masses/masses.xml"></masses>
+	<quantity></quantity>
+</quantities>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contactPoints xmlns:xlink="http://www.w3.org/1999/xlink">
+	<postalAddresses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="postalAddresses/postalAddresses.xml"></postalAddresses>
+	<contactPoint></contactPoint>
+</contactPoints>

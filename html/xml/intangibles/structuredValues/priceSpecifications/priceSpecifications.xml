@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<priceSpecifications xmlns:xlink="http://www.w3.org/1999/xlink">
+	<compoundPriceSpecifications xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="compoundPriceSpecifications/compoundPriceSpecifications.xml"></compoundPriceSpecifications>
+	<deliveryChargeSpecifications xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="deliveryChargeSpecifications/deliveryChargeSpecifications.xml"></deliveryChargeSpecifications>
+	<paymentChargeSpecifications xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="paymentChargeSpecifications/paymentChargeSpecifications.xml"></paymentChargeSpecifications>
+	<unitPriceSpecifications xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="unitPriceSpecifications/unitPriceSpecifications.xml"></unitPriceSpecifications>
+	<priceSpecification></priceSpecification>
+</priceSpecifications>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geoShapes xmlns:xlink="http://www.w3.org/1999/xlink">
+	<geoCircles xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="geoCircles/geoCircles.xml"></geoCircles>
+	<geoShape></geoShape>
+</geoShapes>

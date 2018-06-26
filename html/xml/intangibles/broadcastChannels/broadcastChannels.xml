@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<broadcastChannels xmlns:xlink="http://www.w3.org/1999/xlink">
+	<radioChannels xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="radioChannels/radioChannels.xml"></radioChannels>
+	<televisionChannels xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="televisionChannels/televisionChannels.xml"></televisionChannels>
+	<broadcastChannel></broadcastChannel>
+</broadcastChannels>

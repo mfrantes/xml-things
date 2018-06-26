@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<financialProducts xmlns:xlink="http://www.w3.org/1999/xlink">
+	<bankAccounts xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="bankAccounts/bankAccounts.xml"></bankAccounts>
+	<currencyConversionServices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="currencyConversionServices/currencyConversionServices.xml"></currencyConversionServices>
+	<investmentsOrDeposits xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="investmentsOrDeposits/investmentsOrDeposits.xml"></investmentsOrDeposits>
+	<loansOrCredits xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="loansOrCredits/loansOrCredits.xml"></loansOrCredits>
+	<paymentCards xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="paymentCards/paymentCards.xml"></paymentCards>
+	<paymentServices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="paymentServices/paymentServices.xml"></paymentServices>
+	<financialProduct></financialProduct>
+</financialProducts>

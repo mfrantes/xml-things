@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<permits xmlns:xlink="http://www.w3.org/1999/xlink">
+	<governmentPermits xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="governmentPermits/governmentPermits.xml"></governmentPermits>
+	<permit></permit>
+</permits>

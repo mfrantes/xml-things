@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemLists xmlns:xlink="http://www.w3.org/1999/xlink">
+	<breadcrumbLists xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="breadcrumbLists/breadcrumbLists.xml"></breadcrumbLists>
+	<howToSections xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../../creativeWorks/howToSections/howToSections.xml"></howToSections>
+	<howToSteps xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../../creativeWorks/howToSteps/howToSteps.xml"></howToSteps>
+	<offerCatalogs xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="offerCatalogs/offerCatalogs.xml"></offerCatalogs>
+	<itemList></itemList>
+</itemLists>

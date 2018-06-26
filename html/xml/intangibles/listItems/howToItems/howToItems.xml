@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<howToItems xmlns:xlink="http://www.w3.org/1999/xlink">
+	<howToSupplies xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="howToSupplies/howToSupplies.xml"></howToSupplies>
+	<howToTools xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="howToTools/howToTools.xml"></howToTools>
+	<howToItem></howToItem>
+</howToItems>

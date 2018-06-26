@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enumerations xmlns:xlink="http://www.w3.org/1999/xlink">
+	<actionStatusTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="actionStatusTypes/actionStatusTypes.xml"></actionStatusTypes>
+	<boardingPolicyTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="boardingPolicyTypes/boardingPolicyTypes.xml"></boardingPolicyTypes>
+	<bookFormatTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="bookFormatTypes/bookFormatTypes.xml"></bookFormatTypes>
+	<businessEntityTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="businessEntityTypes/businessEntityTypes.xml"></businessEntityTypes>
+	<businessFunctions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="businessFunctions/businessFunctions.xml"></businessFunctions>
+	<contactPointOptions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="contactPointOptions/contactPointOptions.xml"></contactPointOptions>
+	<daysOfWeek xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="daysOfWeek/daysOfWeek.xml"></daysOfWeek>
+	<deliveryMethods xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="deliveryMethods/deliveryMethods.xml"></deliveryMethods>
+	<digitalDocumentPermissionTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="digitalDocumentPermissionTypes/digitalDocumentPermissionTypes.xml"></digitalDocumentPermissionTypes>
+	<eventStatusTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="eventStatusTypes/eventStatusTypes.xml"></eventStatusTypes>
+	<gamePlayModes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="gamePlayModes/gamePlayModes.xml"></gamePlayModes>
+	<gameServerStatuses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="gameServerStatuses/gameServerStatuses.xml"></gameServerStatuses>
+	<genderTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="genderTypes/genderTypes.xml"></genderTypes>
+	<itemAvailabilities xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="itemAvailabilities/itemAvailabilities.xml"></itemAvailabilities>
+	<itemListOrderTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="itemListOrderTypes/itemListOrderTypes.xml"></itemListOrderTypes>
+	<mapCategoryTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="mapCategoryTypes/mapCategoryTypes.xml"></mapCategoryTypes>
+	<musicAlbumProductionTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="musicAlbumProductionTypes/musicAlbumProductionTypes.xml"></musicAlbumProductionTypes>
+	<musicAlbumReleaseTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="musicAlbumReleaseTypes/musicAlbumReleaseTypes.xml"></musicAlbumReleaseTypes>
+	<musicReleaseFormatTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="musicReleaseFormatTypes/musicReleaseFormatTypes.xml"></musicReleaseFormatTypes>
+	<offerItemConditions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="offerItemConditions/offerItemConditions.xml"></offerItemConditions>
+	<orderStatuses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="orderStatuses/orderStatuses.xml"></orderStatuses>
+	<paymentMethods xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="paymentMethods/paymentMethods.xml"></paymentMethods>
+	<paymentStatusTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="paymentStatusTypes/paymentStatusTypes.xml"></paymentStatusTypes>
+	<qualitativeValues xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="qualitativeValues/qualitativeValues.xml"></qualitativeValues>
+	<reservationStatusTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="reservationStatusTypes/reservationStatusTypes.xml"></reservationStatusTypes>
+	<restrictedDiets xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="restrictedDiets/restrictedDiets.xml"></restrictedDiets>
+	<rsvpResponseTypes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="rsvpResponseTypes/rsvpResponseTypes.xml"></rsvpResponseTypes>
+	<specialties xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="specialties/specialties.xml"></specialties>
+	<warrantyScopes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="warrantyScopes/warrantyScopes.xml"></warrantyScopes>
+	<enumeration></enumeration>
+</enumerations>

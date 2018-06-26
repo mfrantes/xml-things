@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paymentCards xmlns:xlink="http://www.w3.org/1999/xlink">
+	<creditCards xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../loansOrCredits/creditCards/creditCards.xml"></creditCards>
+	<paymentCard></paymentCard>
+</paymentCards>

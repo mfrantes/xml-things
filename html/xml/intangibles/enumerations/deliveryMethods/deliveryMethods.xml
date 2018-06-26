@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deliveryMethods xmlns:xlink="http://www.w3.org/1999/xlink">
+	<lockerDeliveries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="lockerDeliveries/lockerDeliveries.xml"></lockerDeliveries>
+	<parcelServices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="parcelServices/parcelServices.xml"></parcelServices>
+	<deliveryMethod></deliveryMethod>
+</deliveryMethods>
