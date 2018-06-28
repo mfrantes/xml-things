@@ -10,9 +10,8 @@
 		xlink:href="intangibles/intangibles.xml"></intangibles>
 	<organizations xlink:actuate="onLoad" xlink:show="embed"
 		xlink:href="organizations/organizations.xml"></organizations>
-	<people>
-		<person></person>
-	</people>
+	<people xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="people/people.xml"></people>
 	<places>
 		<accommodations>
 			<apartments>
