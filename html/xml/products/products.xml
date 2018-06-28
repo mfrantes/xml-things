@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products xmlns:xlink="http://www.w3.org/1999/xlink">
+	<individualProducts xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="individualProducts/individualProducts.xml"></individualProducts>
+	<productModels xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="productModels/productModels.xml"></productModels>
+	<allSomeProducts xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="allSomeProducts/allSomeProducts.xml"></allSomeProducts>
+	<vehicles xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="vehicles/vehicles.xml"></vehicles>
+	<product></product>
+</products>

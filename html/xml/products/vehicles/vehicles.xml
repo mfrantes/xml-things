@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles xmlns:xlink="http://www.w3.org/1999/xlink">
+	<cars xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="cars/cars.xml"></cars>
+	<vehicle></vehicle>
+</vehicles>

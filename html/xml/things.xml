@@ -14,23 +14,7 @@
 		xlink:href="people/people.xml"></people>
 	<places xlink:actuate="onLoad" xlink:show="embed"
 		xlink:href="places/places.xml"></places>
-	<products>
-		<individualProducts>
-			<individualProduct></individualProduct>
-		</individualProducts>
-		<productModels>
-			<productModel></productModel>
-		</productModels>
-		<allSomeProducts>
-			<someProducts></someProducts>
-		</allSomeProducts>
-		<vehicles>
-			<cars>
-				<car></car>
-			</cars>
-			<vehicle></vehicle>
-		</vehicles>
-		<product></product>
-	</products>
+	<products xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="products/products.xml"></products>
 	<thing></thing>
 </things>
