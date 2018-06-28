@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<administrativeAreas xmlns:xlink="http://www.w3.org/1999/xlink">
+	<cities xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="cities/cities.xml"></cities>
+	<countries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="countries/countries.xml"></countries>
+	<states xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="states/states.xml"></states>
+	<administrativeArea></administrativeArea>
+</administrativeAreas>

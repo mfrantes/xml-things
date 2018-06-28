@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<civicStructures xmlns:xlink="http://www.w3.org/1999/xlink">
+	<airports xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="airports/airports.xml"></airports>
+	<aquaria xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="aquaria/aquaria.xml"></aquaria>
+	<beaches xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="beaches/beaches.xml"></beaches>
+	<bridges xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="bridges/bridges.xml"></bridges>
+	<busStations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="busStations/busStations.xml"></busStations>
+	<busStops xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="busStops/busStops.xml"></busStops>
+	<campgrounds xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../../organizations/localBusinesses/lodgingBusinesses/campgrounds/campgrounds.xml"></campgrounds>
+	<cemeteries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="cemeteries/cemeteries.xml"></cemeteries>
+	<crematories xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="crematories/crematories.xml"></crematories>
+	<eventVenues xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="eventVenues/eventVenues.xml"></eventVenues>
+	<fireStations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../../organizations/localBusinesses/emergencyServices/fireStations/fireStations.xml"></fireStations>
+	<governmentBuildings xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="governmentBuildings/governmentBuildings.xml"></governmentBuildings>
+	<hospitals xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../../organizations/localBusinesses/emergencyServices/hospitals/hospitals.xml"></hospitals>
+	<movieTheaters xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../../organizations/localBusinesses/entertainmentBusinesses/movieTheaters/movieTheaters.xml"></movieTheaters>
+	<museums xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="museums/museums.xml"></museums>
+	<musicVenues xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="musicVenues/musicVenues.xml"></musicVenues>
+	<parks xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="parks/parks.xml"></parks>
+	<parkingFacilities xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="parkingFacilities/parkingFacilities.xml"></parkingFacilities>
+	<performingArtsTheaters xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="performingArtsTheaters/performingArtsTheaters.xml"></performingArtsTheaters>
+	<placesOfWorship xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="placesOfWorship/placesOfWorship.xml"></placesOfWorship>
+	<playgrounds xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="playgrounds/playgrounds.xml"></playgrounds>
+	<policeStations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../../organizations/localBusinesses/emergencyServices/policeStations/policeStations.xml"></policeStations>
+	<rvParks xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="rvParks/rvParks.xml"></rvParks>
+	<stadiaOrArenas xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../../organizations/localBusinesses/sportsActivityLocations/stadiaOrArenas/stadiaOrArenas.xml"></stadiaOrArenas>
+	<subwayStations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="subwayStations/subwayStations.xml"></subwayStations>
+	<taxiStands xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="taxiStands/taxiStands.xml"></taxiStands>
+	<trainStations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="trainStations/trainStations.xml"></trainStations>
+	<zoos xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="zoos/zoos.xml"></zoos>
+	<civicStructure></civicStructure>
+</civicStructures>

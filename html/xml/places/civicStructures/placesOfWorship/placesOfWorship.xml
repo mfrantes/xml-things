@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<placesOfWorship xmlns:xlink="http://www.w3.org/1999/xlink">
+	<buddhistTemples xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="buddhistTemples/buddhistTemples.xml"></buddhistTemples>
+	<catholicChurches xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="catholicChurches/catholicChurches.xml"></catholicChurches>
+	<churches xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="churches/churches.xml"></churches>
+	<hinduTemples xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="hinduTemples/hinduTemples.xml"></hinduTemples>
+	<mosques xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="mosques/mosques.xml"></mosques>
+	<synagogues xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="synagogues/synagogues.xml"></synagogues>
+	<placeOfWorship></placeOfWorship>
+</placesOfWorship>

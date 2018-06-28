@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bodiesOfWater xmlns:xlink="http://www.w3.org/1999/xlink">
+	<canals xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="canals/canals.xml"></canals>
+	<lakeBodiesOfWater xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="lakeBodiesOfWater/lakeBodiesOfWater.xml"></lakeBodiesOfWater>
+	<oceanBodiesOfWater xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="oceanBodiesOfWater/oceanBodiesOfWater.xml"></oceanBodiesOfWater>
+	<ponds xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="ponds/ponds.xml"></ponds>
+	<reservoirs xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="reservoirs/reservoirs.xml"></reservoirs>
+	<riverBodiesOfWater xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="riverBodiesOfWater/riverBodiesOfWater.xml"></riverBodiesOfWater>
+	<seaBodiesOfWater xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="seaBodiesOfWater/seaBodiesOfWater.xml"></seaBodiesOfWater>
+	<waterfalls xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="waterfalls/waterfalls.xml"></waterfalls>
+	<bodyOfWater></bodyOfWater>
+</bodiesOfWater>

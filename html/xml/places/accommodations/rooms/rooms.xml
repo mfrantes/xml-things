@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rooms xmlns:xlink="http://www.w3.org/1999/xlink">
+	<hotelRooms xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="hotelRooms/hotelRooms.xml"></hotelRooms>
+	<meetingRooms xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="meetingRooms/meetingRooms.xml"></meetingRooms>
+	<room></room>
+</rooms>

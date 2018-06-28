@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<landforms xmlns:xlink="http://www.w3.org/1999/xlink">
+	<bodiesOfWater xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="bodiesOfWater/bodiesOfWater.xml"></bodiesOfWater>
+	<continents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="continents/continents.xml"></continents>
+	<mountains xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="mountains/mountains.xml"></mountains>
+	<volcanos xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="volcanos/volcanos.xml"></volcanos>
+	<landform></landform>
+</landforms>

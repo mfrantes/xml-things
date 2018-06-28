@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<governmentBuildings xmlns:xlink="http://www.w3.org/1999/xlink">
+	<cityHalls xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="cityHalls/cityHalls.xml"></cityHalls>
+	<courthouses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="courthouses/courthouses.xml"></courthouses>
+	<defenceEstablishments xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="defenceEstablishments/defenceEstablishments.xml"></defenceEstablishments>
+	<embassies xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="embassies/embassies.xml"></embassies>
+	<legislativeBuildings xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="legislativeBuildings/legislativeBuildings.xml"></legislativeBuildings>
+	<governmentBuilding></governmentBuilding>
+</governmentBuildings>

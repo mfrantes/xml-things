@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accommodations xmlns:xlink="http://www.w3.org/1999/xlink">
+	<apartments xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="apartments/apartments.xml"></apartments>
+	<campingPitches xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="campingPitches/campingPitches.xml"></campingPitches>
+	<houses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="houses/houses.xml"></houses>
+	<rooms xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="rooms/rooms.xml"></rooms>
+	<suites xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="suites/suites.xml"></suites>
+	<accommodation></accommodation>
+</accommodations>

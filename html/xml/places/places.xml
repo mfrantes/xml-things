@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<places xmlns:xlink="http://www.w3.org/1999/xlink">
+	<accommodations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="accommodations/accommodations.xml"></accommodations>
+	<administrativeAreas xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="administrativeAreas/administrativeAreas.xml"></administrativeAreas>
+	<civicStructures xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="civicStructures/civicStructures.xml"></civicStructures>
+	<landforms xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="landforms/landforms.xml"></landforms>
+	<landmarksOrHistoricalBuildings xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="landmarksOrHistoricalBuildings/landmarksOrHistoricalBuildings.xml"></landmarksOrHistoricalBuildings>
+	<localBusinesses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../organizations/localBusinesses/localBusinesses.xml"></localBusinesses>
+	<residences xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="residences/residences.xml"></residences>
+	<touristAttractions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="touristAttractions/touristAttractions.xml"></touristAttractions>
+	<place></place>
+</places>
