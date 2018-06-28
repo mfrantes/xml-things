@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<performingGroups xmlns:xlink="http://www.w3.org/1999/xlink">
+	<danceGroups xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="danceGroups/danceGroups.xml"></danceGroups>
+	<musicGroups xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="musicGroups/musicGroups.xml"></musicGroups>
+	<theaterGroups xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="theaterGroups/theaterGroups.xml"></theaterGroups>
+	<performingGroup></performingGroup>
+</performingGroups>

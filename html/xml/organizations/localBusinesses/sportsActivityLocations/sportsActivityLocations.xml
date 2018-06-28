@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sportsActivityLocations xmlns:xlink="http://www.w3.org/1999/xlink">
+	<bowlingAlleys xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="bowlingAlleys/bowlingAlleys.xml"></bowlingAlleys>
+	<exerciseGyms xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="exerciseGyms/exerciseGyms.xml"></exerciseGyms>
+	<golfCourses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="golfCourses/golfCourses.xml"></golfCourses>
+	<healthClubs xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../healthAndBeautyBusinesses/healthClubs/healthClubs.xml"></healthClubs>
+	<publicSwimmingPools xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="publicSwimmingPools/publicSwimmingPools.xml"></publicSwimmingPools>
+	<skiResorts xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="skiResorts/skiResorts.xml"></skiResorts>
+	<sportsClubs xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="sportsClubs/sportsClubs.xml"></sportsClubs>
+	<stadiaOrArenas xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="stadiaOrArenas/stadiaOrArenas.xml"></stadiaOrArenas>
+	<tennisComplexes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="tennisComplexes/tennisComplexes.xml"></tennisComplexes>
+	<sportsActivityLocation></sportsActivityLocation>
+</sportsActivityLocations>

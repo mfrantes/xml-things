@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<governmentOffices xmlns:xlink="http://www.w3.org/1999/xlink">
+	<postOffices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="postOffices/postOffices.xml"></postOffices>
+	<governmentOffice></governmentOffice>
+</governmentOffices>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emergencyServices xmlns:xlink="http://www.w3.org/1999/xlink">
+	<fireStations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="fireStations/fireStations.xml"></fireStations>
+	<hospitals xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="hospitals/hospitals.xml"></hospitals>
+	<policeStations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="policeStations/policeStations.xml"></policeStations>
+	<emergencyService></emergencyService>
+</emergencyServices>

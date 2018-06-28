@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<educationalOrganizations xmlns:xlink="http://www.w3.org/1999/xlink">
+	<collegesOrUniversities xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="collegesOrUniversities/collegesOrUniversities.xml"></collegesOrUniversities>
+	<elementarySchools xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="elementarySchools/elementarySchools.xml"></elementarySchools>
+	<highSchools xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="highSchools/highSchools.xml"></highSchools>
+	<middleSchools xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="middleSchools/middleSchools.xml"></middleSchools>
+	<preschools xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="preschools/preschools.xml"></preschools>
+	<schools xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="schools/schools.xml"></schools>
+	<educationalOrganization></educationalOrganization>
+</educationalOrganizations>

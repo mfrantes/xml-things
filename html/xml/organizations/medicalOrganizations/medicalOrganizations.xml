@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<medicalOrganizations xmlns:xlink="http://www.w3.org/1999/xlink">
+	<dentists xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="dentists/dentists.xml"></dentists>
+	<hospitals xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../localBusinesses/emergencyServices/hospitals/hospitals.xml"></hospitals>
+	<pharmacies xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="pharmacies/pharmacies.xml"></pharmacies>
+	<physicians xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="physicians/physicians.xml"></physicians>
+	<medicalOrganization></medicalOrganization>
+</medicalOrganizations>

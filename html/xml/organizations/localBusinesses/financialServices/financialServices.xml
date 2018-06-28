@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<financialServices xmlns:xlink="http://www.w3.org/1999/xlink">
+	<accountingServices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="accountingServices/accountingServices.xml"></accountingServices>
+	<automatedTellers xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="automatedTellers/automatedTellers.xml"></automatedTellers>
+	<banksOrCreditUnions xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="banksOrCreditUnions/banksOrCreditUnions.xml"></banksOrCreditUnions>
+	<insuranceAgencies xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="insuranceAgencies/insuranceAgencies.xml"></insuranceAgencies>
+	<financialService></financialService>
+</financialServices>

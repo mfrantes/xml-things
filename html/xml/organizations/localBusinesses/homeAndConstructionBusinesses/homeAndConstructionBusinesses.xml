@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<homeAndConstructionBusinesses xmlns:xlink="http://www.w3.org/1999/xlink">
+	<electricians xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="electricians/electricians.xml"></electricians>
+	<generalContractors xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="generalContractors/generalContractors.xml"></generalContractors>
+	<hvacBusinesses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="hvacBusinesses/hvacBusinesses.xml"></hvacBusinesses>
+	<housePainters xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="housePainters/housePainters.xml"></housePainters>
+	<locksmiths xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="locksmiths/locksmiths.xml"></locksmiths>
+	<movingCompanies xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="movingCompanies/movingCompanies.xml"></movingCompanies>
+	<plumbers xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="plumbers/plumbers.xml"></plumbers>
+	<roofingContractors xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="roofingContractors/roofingContractors.xml"></roofingContractors>
+	<homeAndConstructionBusiness></homeAndConstructionBusiness>
+</homeAndConstructionBusinesses>

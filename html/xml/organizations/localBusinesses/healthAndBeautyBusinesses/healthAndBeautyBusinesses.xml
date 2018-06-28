@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<healthAndBeautyBusinesses xmlns:xlink="http://www.w3.org/1999/xlink">
+	<beautySalons xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="beautySalons/beautySalons.xml"></beautySalons>
+	<daySpas xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="daySpas/daySpas.xml"></daySpas>
+	<hairSalons xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="hairSalons/hairSalons.xml"></hairSalons>
+	<healthClubs xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="healthClubs/healthClubs.xml"></healthClubs>
+	<nailSalons xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="nailSalons/nailSalons.xml"></nailSalons>
+	<tattooParlors xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="tattooParlors/tattooParlors.xml"></tattooParlors>
+	<healthAndBeautyBusiness></healthAndBeautyBusiness>
+</healthAndBeautyBusinesses>

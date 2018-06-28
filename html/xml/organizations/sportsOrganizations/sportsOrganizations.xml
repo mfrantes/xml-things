@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sportsOrganizations xmlns:xlink="http://www.w3.org/1999/xlink">
+	<sportsTeams xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="sportsTeams/sportsTeams.xml"></sportsTeams>
+	<sportsOrganization></sportsOrganization>
+</sportsOrganizations>

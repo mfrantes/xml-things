@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<automotiveBusinesses xmlns:xlink="http://www.w3.org/1999/xlink">
+	<autoBodyShops xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="autoBodyShops/autoBodyShops.xml"></autoBodyShops>
+	<autoDealers xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="autoDealers/autoDealers.xml"></autoDealers>
+	<autoPartsStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="autoPartsStores/autoPartsStores.xml"></autoPartsStores>
+	<autoRentals xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="autoRentals/autoRentals.xml"></autoRentals>
+	<autoRepairs xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="autoRepairs/autoRepairs.xml"></autoRepairs>
+	<autoWashes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="autoWashes/autoWashes.xml"></autoWashes>
+	<gasStations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="gasStations/gasStations.xml"></gasStations>
+	<motorcycleDealers xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="motorcycleDealers/motorcycleDealers.xml"></motorcycleDealers>
+	<motorcycleRepairs xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="motorcycleRepairs/motorcycleRepairs.xml"></motorcycleRepairs>
+	<automotiveBusiness></automotiveBusiness>
+</automotiveBusinesses>

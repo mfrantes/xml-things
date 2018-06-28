@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localBusinesses xmlns:xlink="http://www.w3.org/1999/xlink">
+	<animalShelters xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="animalShelters/animalShelters.xml"></animalShelters>
+	<automotiveBusinesses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="automotiveBusinesses/automotiveBusinesses.xml"></automotiveBusinesses>
+	<childCares xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="childCares/childCares.xml"></childCares>
+	<dentists xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../medicalOrganizations/dentists/dentists.xml"></dentists>
+	<dryCleaningsOrLaundries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="dryCleaningsOrLaundries/dryCleaningsOrLaundries.xml"></dryCleaningsOrLaundries>
+	<emergencyServices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="emergencyServices/emergencyServices.xml"></emergencyServices>
+	<employmentAgencies xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="employmentAgencies/employmentAgencies.xml"></employmentAgencies>
+	<entertainmentBusinesses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="entertainmentBusinesses/entertainmentBusinesses.xml"></entertainmentBusinesses>
+	<financialServices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="financialServices/financialServices.xml"></financialServices>
+	<foodEstablishments xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="foodEstablishments/foodEstablishments.xml"></foodEstablishments>
+	<governmentOffices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="governmentOffices/governmentOffices.xml"></governmentOffices>
+	<healthAndBeautyBusinesses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="healthAndBeautyBusinesses/healthAndBeautyBusinesses.xml"></healthAndBeautyBusinesses>
+	<homeAndConstructionBusinesses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="homeAndConstructionBusinesses/homeAndConstructionBusinesses.xml"></homeAndConstructionBusinesses>
+	<internetCafes xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="internetCafes/internetCafes.xml"></internetCafes>
+	<legalServices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="legalServices/legalServices.xml"></legalServices>
+	<libraries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="libraries/libraries.xml"></libraries>
+	<lodgingBusinesses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="lodgingBusinesses/lodgingBusinesses.xml"></lodgingBusinesses>
+	<professionalServices xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="professionalServices/professionalServices.xml"></professionalServices>
+	<radioStations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="radioStations/radioStations.xml"></radioStations>
+	<realEstateAgents xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="realEstateAgents/realEstateAgents.xml"></realEstateAgents>
+	<recyclingCenters xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="recyclingCenters/recyclingCenters.xml"></recyclingCenters>
+	<selfStorages xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="selfStorages/selfStorages.xml"></selfStorages>
+	<shoppingCenters xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="shoppingCenters/shoppingCenters.xml"></shoppingCenters>
+	<sportsActivityLocations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="sportsActivityLocations/sportsActivityLocations.xml"></sportsActivityLocations>
+	<stores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="stores/stores.xml"></stores>
+	<televisionStations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="televisionStations/televisionStations.xml"></televisionStations>
+	<touristInformationCenters xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="touristInformationCenters/touristInformationCenters.xml"></touristInformationCenters>
+	<travelAgencies xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="travelAgencies/travelAgencies.xml"></travelAgencies>
+	<localBusiness></localBusiness>
+</localBusinesses>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lodgingBusinesses xmlns:xlink="http://www.w3.org/1999/xlink">
+	<bedsAndBreakfasts xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="bedsAndBreakfasts/bedsAndBreakfasts.xml"></bedsAndBreakfasts>
+	<campgrounds xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="campgrounds/campgrounds.xml"></campgrounds>
+	<hostels xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="hostels/hostels.xml"></hostels>
+	<hotels xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="hotels/hotels.xml"></hotels>
+	<motels xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="motels/motels.xml"></motels>
+	<resorts xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="resorts/resorts.xml"></resorts>
+	<lodgingBusiness></lodgingBusiness>
+</lodgingBusinesses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organizations xmlns:xlink="http://www.w3.org/1999/xlink">
+	<airlines xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="airlines/airlines.xml"></airlines>
+	<corporations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="corporations/corporations.xml"></corporations>
+	<educationalOrganizations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="educationalOrganizations/educationalOrganizations.xml"></educationalOrganizations>
+	<governmentOrganizations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="governmentOrganizations/governmentOrganizations.xml"></governmentOrganizations>
+	<localBusinesses xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="localBusinesses/localBusinesses.xml"></localBusinesses>
+	<medicalOrganizations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="medicalOrganizations/medicalOrganizations.xml"></medicalOrganizations>
+	<ngos xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="ngos/ngos.xml"></ngos>
+	<performingGroups xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="performingGroups/performingGroups.xml"></performingGroups>
+	<sportsOrganizations xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="sportsOrganizations/sportsOrganizations.xml"></sportsOrganizations>
+	<organization></organization>
+</organizations>

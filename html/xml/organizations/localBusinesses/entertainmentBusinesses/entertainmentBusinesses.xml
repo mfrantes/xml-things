@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entertainmentBusinesses xmlns:xlink="http://www.w3.org/1999/xlink">
+	<adultEntertainments xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="adultEntertainments/adultEntertainments.xml"></adultEntertainments>
+	<amusementParks xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="amusementParks/amusementParks.xml"></amusementParks>
+	<artGalleries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="artGalleries/artGalleries.xml"></artGalleries>
+	<casinos xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="casinos/casinos.xml"></casinos>
+	<comedyClubs xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="comedyClubs/comedyClubs.xml"></comedyClubs>
+	<movieTheaters xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="movieTheaters/movieTheaters.xml"></movieTheaters>
+	<nightClubs xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="nightClubs/nightClubs.xml"></nightClubs>
+	<entertainmentBusiness></entertainmentBusiness>
+</entertainmentBusinesses>

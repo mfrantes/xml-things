@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foodEstablishments xmlns:xlink="http://www.w3.org/1999/xlink">
+	<bakeries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="bakeries/bakeries.xml"></bakeries>
+	<barsOrPubs xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="barsOrPubs/barsOrPubs.xml"></barsOrPubs>
+	<breweries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="breweries/breweries.xml"></breweries>
+	<cafesOrCoffeeShops xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="cafesOrCoffeeShops/cafesOrCoffeeShops.xml"></cafesOrCoffeeShops>
+	<fastFoodRestaurants xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="fastFoodRestaurants/fastFoodRestaurants.xml"></fastFoodRestaurants>
+	<iceCreamShops xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="iceCreamShops/iceCreamShops.xml"></iceCreamShops>
+	<restaurants xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="restaurants/restaurants.xml"></restaurants>
+	<wineries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="wineries/wineries.xml"></wineries>
+	<foodEstablishment></foodEstablishment>
+</foodEstablishments>

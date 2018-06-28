@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legalServices xmlns:xlink="http://www.w3.org/1999/xlink">
+	<attorneys xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="attorneys/attorneys.xml"></attorneys>
+	<notaries xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="notaries/notaries.xml"></notaries>
+	<legalService></legalService>
+</legalServices>

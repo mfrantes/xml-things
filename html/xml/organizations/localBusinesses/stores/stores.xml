@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stores xmlns:xlink="http://www.w3.org/1999/xlink">
+	<autoPartsStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="../automotiveBusinesses/autoPartsStores/autoPartsStores.xml"></autoPartsStores>
+	<bikeStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="bikeStores/bikeStores.xml"></bikeStores>
+	<bookStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="bookStores/bookStores.xml"></bookStores>
+	<clothingStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="clothingStores/clothingStores.xml"></clothingStores>
+	<computerStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="computerStores/computerStores.xml"></computerStores>
+	<convenienceStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="convenienceStores/convenienceStores.xml"></convenienceStores>
+	<departmentStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="departmentStores/departmentStores.xml"></departmentStores>
+	<electronicsStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="electronicsStores/electronicsStores.xml"></electronicsStores>
+	<florists xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="florists/florists.xml"></florists>
+	<furnitureStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="furnitureStores/furnitureStores.xml"></furnitureStores>
+	<gardenStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="gardenStores/gardenStores.xml"></gardenStores>
+	<groceryStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="groceryStores/groceryStores.xml"></groceryStores>
+	<hardwareStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="hardwareStores/hardwareStores.xml"></hardwareStores>
+	<hobbyShops xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="hobbyShops/hobbyShops.xml"></hobbyShops>
+	<homeGoodsStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="homeGoodsStores/homeGoodsStores.xml"></homeGoodsStores>
+	<jewelryStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="jewelryStores/jewelryStores.xml"></jewelryStores>
+	<liquorStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="liquorStores/liquorStores.xml"></liquorStores>
+	<mensClothingStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="mensClothingStores/mensClothingStores.xml"></mensClothingStores>
+	<mobilePhoneStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="mobilePhoneStores/mobilePhoneStores.xml"></mobilePhoneStores>
+	<movieRentalStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="movieRentalStores/movieRentalStores.xml"></movieRentalStores>
+	<musicStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="musicStores/musicStores.xml"></musicStores>
+	<officeEquipmentStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="officeEquipmentStores/officeEquipmentStores.xml"></officeEquipmentStores>
+	<outletStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="outletStores/outletStores.xml"></outletStores>
+	<pawnShops xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="pawnShops/pawnShops.xml"></pawnShops>
+	<petStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="petStores/petStores.xml"></petStores>
+	<shoeStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="shoeStores/shoeStores.xml"></shoeStores>
+	<sportingGoodsStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="sportingGoodsStores/sportingGoodsStores.xml"></sportingGoodsStores>
+	<tireShops xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="tireShops/tireShops.xml"></tireShops>
+	<toyStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="toyStores/toyStores.xml"></toyStores>
+	<wholesaleStores xlink:actuate="onLoad" xlink:show="embed"
+		xlink:href="wholesaleStores/wholesaleStores.xml"></wholesaleStores>
+	<store></store>
+</stores>
