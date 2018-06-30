@@ -2,16 +2,16 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-  <title>Things</title>
-  <link rel="stylesheet" href="css/normalize.css">
+  <title>Actions</title>
+  <link rel="stylesheet" href="../css/normalize.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" href="favicon.ico">
-  <link rel="stylesheet" href="css/simple.css">
-  <link rel="stylesheet" href="css/colors.css">
-  <link rel="stylesheet" href="css/custom.css">
+  <link rel="icon" href="../favicon.ico">
+  <link rel="stylesheet" href="../css/simple.css">
+  <link rel="stylesheet" href="../css/colors.css">
+  <link rel="stylesheet" href="../css/custom.css">
 </head>
-<body onload="displayResult('xml/xsl/things.xsl', 'xml/things.xml', 'things', 'js/MathJax-2.7.4/MathJax.js?config=MML_CHTML')">
-  <div id="things"></div>
+<body onload="displayResult('../xml/xsl/actions/actions.xsl', '../xml/actions/actions.xml', 'actions', '../js/MathJax-2.7.4/MathJax.js?config=MML_CHTML')">
+  <div id="actions"></div>
 	<div class="container">
 	<?php
 
@@ -48,6 +48,6 @@
 	// */
 	?>
 	</div>
-  <script src="js/showContent.js"></script>
+  <script src="../js/showContent.js"></script>
 </body>
 </html>

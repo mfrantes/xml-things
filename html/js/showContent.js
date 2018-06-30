@@ -10,7 +10,7 @@ function xhrSuccess() {
 	this.callback.apply(this, this.arguments);
 }
 
-function loadFile(url, timeout, callback) {
+function loadFile(url, timeout, callback, id, src) {
 	var xhr = new XMLHttpRequest();
 	xhr.url = url;
 	xhr.timeout = timeout;
@@ -23,10 +23,10 @@ function loadFile(url, timeout, callback) {
 	xhr.send(null);
 }
 
-function loadMathJax() {
+function loadMathJax(src) {
 	var script = document.createElement("script");
 	script.type = "text/javascript";
-	script.src = "js/MathJax-2.7.4/MathJax.js?config=MML_CHTML";
+	script.src = src;
 	document.getElementsByTagName("head")[0].appendChild(script);
 }
 
@@ -34,13 +34,13 @@ function importXsltStylesheet() {
 	xp.importStylesheet(this.responseXML);
 }
 
-function appendFragment() {
-	document.getElementById("things").appendChild(xp.transformToFragment(this.responseXML, document));
-	loadMathJax();
+function appendFragment(id, src) {
+	document.getElementById(id).appendChild(xp.transformToFragment(this.responseXML, document));
+	loadMathJax(src);
 }
 
-function displayResult(){
+function displayResult(sPath, path, id, src) {
 	xp = new XSLTProcessor();
-	loadFile("xml/xsl/things.xsl", 2000, importXsltStylesheet);
-	loadFile("xml/things.xml", 2000, appendFragment);
+	loadFile(sPath, 2000, importXsltStylesheet);
+	loadFile(path, 2000, appendFragment, id, src);
 }
