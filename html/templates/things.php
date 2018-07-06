@@ -1,3 +1,9 @@
-<?php require('common/header.tpl'); ?>
-<?php require('common/body.tpl'); ?>
-<?php require('common/footer.tpl'); ?>
+<?php
+$docTitle  = "Things";
+$elementId = 'things';
+$xmlFile   = 'things.xml';
+$xslFile   = 'things.xsl';
+$level     = '..';
+
+require "vars.php";
+require "template.php";
